@@ -4,66 +4,77 @@
         "id": 0,
         "title": "GEOMETRIC PRINT SHIRT",
         "src": "https://static.zara.net/photos///2022/I/0/1/p/8772/285/330/2/w/938/8772285330_2_1_1.jpg?ts=1661359837603",
+        "count" :1,
         "price": "139,000"
       },
       {
         "id": 1,
         "title": " PRINT SHIRT",
         "src": "https://static.zara.net/photos///2023/V/0/1/p/2492/052/330/17/w/439/2492052330_1_1_1.jpg?ts=1668774804786",
+        "count" :1,
         "price": "59,000"
       },
       {
         "id": 2,
         "title": "THICK LINEN WRAP SHIRT",
         "src": "https://static.zara.net/photos///2022/I/0/1/p/2071/892/800/17/w/938/2071892800_2_3_1.jpg?ts=1668774763739",
+        "count" :1,
         "price": "57,900"
       },
       {
         "id": 3,
         "title": "LINEN BLEND PLEATED SHIRT",
         "src": "https://static.zara.net/photos///2023/V/0/1/p/7484/197/800/12/w/938/7484197800_1_1_1.jpg?ts=1668767378264",
+        "count" :1,
         "price": "57,900"
       },
       {
         "id": 4,
         "title": "FLOWING SATIN SHIRT",
         "src": "https://static.zara.net/photos///2022/I/0/1/p/8668/927/250/2/w/938/8668927250_1_1_1.jpg?ts=1664869317133",
+        "count" :1,
         "price": "39,000"
       },
       {
         "id": 5,
         "title": "RHINESTONE BUTTON SHIRT",
         "src": "https://static.zara.net/photos///2022/I/0/1/p/8614/845/800/18/w/938/8614845800_15_1_1.jpg?ts=1663313970603",
+        "count" :1,
         "price": "39,000"
       },
       {
         "id": 6,
         "title": "CONTRAST TEXTURED SHIRT",
         "src": "https://static.zara.net/photos///2022/I/0/1/p/9110/980/800/17/w/938/9110980800_2_2_1.jpg?ts=1665559365477",
+        "count" :1,
         "price": "89,000"
       },
       {
         "id": 7,
         "title": "FITTED POPLIN SHIRT",
         "src": "https://static.zara.net/photos///2022/I/0/1/p/3564/175/800/2/w/439/3564175800_2_1_1.jpg?ts=1662104985392",
+        "count" :1,
         "price": "19,000"
       },
       {
         "id": 8,
         "title": "FITTED DENIM SHIRT",
         "src": "https://static.zara.net/photos///2022/I/0/1/p/3564/175/621/2/w/439/3564175621_2_1_1.jpg?ts=1662111737577",
+        "count" :1,
         "price": "29,000"
       },
       {
         "id": 9,
         "title": "WOOL BLEND CROSSOVER SHIRT",
         "src": "https://static.zara.net/photos///2022/I/0/1/p/3564/192/712/2/w/439/3564192712_1_1_1.jpg?ts=1663258904292",
+        "count" :1,
         "price": "29,000"
       },
       {
         "id": 10,
         "title": "SATIN SHIRT",
         "src": "https://static.zara.net/photos///2022/I/0/1/p/3564/192/505/2/w/938/3564192505_2_1_1.jpg?ts=1663258893890",
+        "count" :1,
         "price": "49,000"
       }
     ],
